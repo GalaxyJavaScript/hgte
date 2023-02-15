@@ -1,7 +1,7 @@
 body
 {
   color: white;
-  background: #c0d3ff;
+  background: #0b6d4e;
 }
 span
 {
@@ -15,7 +15,7 @@ span
 }
 #result_emotion_name ,#result_emotion_name2  
 {
-  color: black;
+  color: rgb(32, 20, 20);
 }
 .emotion_name
 {
